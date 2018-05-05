@@ -9,3 +9,6 @@ https://arxiv.org/pdf/1412.5335.pdf
 
 Tweeter Sentiment Analysis: 
 https://towardsdatascience.com/another-twitter-sentiment-analysis-with-python-part-11-cnn-word2vec-41f5e28eda74
+
+Data split for modeling: 
+https://machinelearningmastery.com/difference-test-validation-datasets/
